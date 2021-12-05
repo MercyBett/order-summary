@@ -11,7 +11,7 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        name: ["Red Hat Display", "sans-serif"],
+        Red: ["Red Hat Display", "sans-serif"],
       },
     },
   },
